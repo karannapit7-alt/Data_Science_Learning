@@ -15,4 +15,4 @@ Topics covered:
 - Data Cleaning and Exploratory Data Analysis
 - Practice notebooks and datasets
 
-# Author: Karan Thakur
+# Author: Karan Thakur.
