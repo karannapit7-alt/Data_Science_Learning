@@ -13,6 +13,6 @@ Topics covered:
 
 # Projects:
 - Data Cleaning and Exploratory Data Analysis
-- Practice notebooks and datasets
+- Practice notebooks and datasets.
 
 # Author: Karan Thakur.
