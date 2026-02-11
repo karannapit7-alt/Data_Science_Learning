@@ -12,7 +12,7 @@ Topics covered:
 - Visualization (Matplotlib / Seaborn)
 
 # Projects:
-  Data Cleaning and Exploratory Data Analysis
-  Practice notebooks and datasets
+-  Data Cleaning and Exploratory Data Analysis
+-  Practice notebooks and datasets
 
 # Author: Karan Thakur.
