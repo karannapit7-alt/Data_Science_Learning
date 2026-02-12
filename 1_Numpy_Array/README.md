@@ -24,14 +24,11 @@ Each notebook is written with clarity and focuses on core NumPy fundamentals.
  -  NumPy.
  -  Jupyter Notebook.
 
-
---
-
 ## 👨‍🎓 Author
 
 Karan Thakur 
 B.Tech CSE (AI & ML)  
 Brainware University  .
 
-📌 Aspiring Data Scientist | Python & NumPy Learner
+📌 Aspiring Data Scientist | Python & NumPy Learner.
 
