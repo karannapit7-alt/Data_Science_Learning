@@ -7,7 +7,7 @@ It contains hands-on practice notebooks and examples designed to build a strong 
 
 ## 🚀 What This Repository Covers
 
-This repository includes practical Jupyter notebooks on:
+This repository includes practical Jupyter notebooks on:-
 
 ✅ NumPy array creation and basic operations  
 ✅ Array attributes (shape, size, dtype)  
@@ -16,7 +16,7 @@ This repository includes practical Jupyter notebooks on:
 ✅ Practice exercises for concept clarity  
 ✅ Learning by doing approach  
 
-Each notebook is written with clarity and focuses on core NumPy fundamentals.
+ Each notebook is written with clarity and focuses on core NumPy fundamentals.
 
 ## 🛠 Tools & Technologies Used.
 
