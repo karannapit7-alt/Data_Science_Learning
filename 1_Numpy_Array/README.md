@@ -16,7 +16,7 @@ This repository includes practical Jupyter notebooks on:-
 ✅ Practice exercises for concept clarity  
 ✅ Learning by doing approach  
 
- Each notebook is written with clarity and focuses on core NumPy fundamentals.
+Each notebook is written with clarity and focuses on core NumPy fundamentals.
 
 ## 🛠 Tools & Technologies Used.
 
