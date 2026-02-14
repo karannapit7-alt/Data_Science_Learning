@@ -26,7 +26,7 @@ This repository includes practical Jupyter notebooks on:-
 
 ## 👨‍🎓 Author
 
-Karan Thakur 
+Karan Thakur.
 B.Tech CSE (AI & ML)  
 Brainware University  .
 
