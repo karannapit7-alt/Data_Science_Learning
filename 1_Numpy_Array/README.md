@@ -14,6 +14,7 @@ This repository includes practical Jupyter notebooks on:-
 ✅ Indexing and slicing techniques  
 ✅ Python vs NumPy speed comparison  
 ✅ Practice exercises for concept clarity  
+✅ 
 ✅ Learning by doing approach  
 
 Each notebook is written with clarity and focuses on core NumPy fundamentals.
