@@ -11,7 +11,7 @@ Topics covered:
 - Data Cleaning & EDA
 - Visualization (Matplotlib / Seaborn)
 
-# Projects:
+# Projects:-
 -  Data Cleaning and Exploratory Data Analysis
 -  Practice notebooks and datasets
 
