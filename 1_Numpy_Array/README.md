@@ -27,7 +27,7 @@ Each notebook is written with clarity and focuses on core NumPy fundamentals.
 
 ## 👨‍🎓 Author
 
-Karan Thakur.
+Karan Thakur
 B.Tech CSE (AI & ML)  
 Brainware University.
 
