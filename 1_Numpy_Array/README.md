@@ -29,7 +29,7 @@ Each notebook is written with clarity and focuses on core NumPy fundamentals.
 
 Karan Thakur.
 B.Tech CSE (AI & ML)  
-Brainware University..
+Brainware University.
 
 📌 Aspiring Data Scientist & Python & NumPy Learner.
 
