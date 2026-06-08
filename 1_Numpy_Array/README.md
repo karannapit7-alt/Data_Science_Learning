@@ -7,27 +7,6 @@ It contains hands-on practice notebooks and examples designed to build a strong 
 
 ## 🚀 What This Repository Covers
 
-This repository includes practical Jupyter notebooks on:-
-
-✅ NumPy array creation and basic operations  
-✅ Array attributes (shape, size, dtype)  
-✅ Indexing and slicing techniques  
-✅ Python vs NumPy speed comparison  
-✅ Practice exercises for concept clarity  
-✅ Data Types in NumPy Array
-✅ Learning by doing approach  
-
-Each notebook is written with clarity and focuses on core NumPy fundamentals.
-
-## 🛠 Tools & Technologies Used.
-
- -  Python.
- -  NumPy.
- -  Jupyter Notebook.
-
-## 👨‍🎓 Author
-
-Karan Thakur
 B.Tech CSE (AI & ML)  
 Brainware University.
 
