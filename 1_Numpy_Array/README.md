@@ -23,7 +23,7 @@ A comprehensive collection of NumPy notebooks covering array creation, indexing,
 ✔ Problem Solving with Python  
 ✔ Data Science Fundamentals
 
-### 🛠 Technologies
+### 🛠 Technologies.
 
 - Python
 - NumPy
