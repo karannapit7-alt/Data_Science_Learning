@@ -1,6 +1,4 @@
-# 🚀 Data Science Learning :-  NumPy Array
-
-## 📂 1. Num
+# 🚀 Data Science Learning :-  NumPy Array.
 
 A comprehensive collection of NumPy notebooks covering array creation, indexing, slicing, multidimensional arrays, data types, broadcasting, mathematical functions, speed testing, and practice exercises.
 
