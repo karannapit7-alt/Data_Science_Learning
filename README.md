@@ -4,7 +4,7 @@
 # 📌 Data Science Learning Repository.
 
 # This repository documents my journey in Data Science using Python.
-#Topics covered:-
+#Topics covered :-
 - Python for Data Analysis
 - NumPy
 - Pandas
