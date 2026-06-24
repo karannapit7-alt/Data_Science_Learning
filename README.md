@@ -7,8 +7,8 @@
 #Topics covered :-
 - Python for Data Analysis.
 - NumPy.
-- Pandas
-- Data Cleaning & EDA
+- Pandas.
+- Data Cleaning & EDA.
 - Visualization (Matplotlib / Seaborn)
 
 # Projects.
