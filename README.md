@@ -5,8 +5,8 @@
 
 # This repository documents my journey in Data Science using Python.
 #Topics covered :-
-- Python for Data Analysis
-- NumPy
+- Python for Data Analysis.
+- NumPy.
 - Pandas
 - Data Cleaning & EDA
 - Visualization (Matplotlib / Seaborn)
