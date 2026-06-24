@@ -9,7 +9,7 @@
 - NumPy.
 - Pandas.
 - Data Cleaning & EDA.
-- Visualization (Matplotlib / Seaborn)
+- Visualization (Matplotlib / Seaborn).
 
 # Projects.
 -  Data Cleaning and Exploratory Data Analysis
