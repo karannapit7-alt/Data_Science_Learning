@@ -28,7 +28,6 @@ A comprehensive collection of NumPy notebooks covering array creation, indexing,
 - Python
 - NumPy
 - Jupyter Notebook
-- GitHub
 
 ### 👨‍💻 Author
 
