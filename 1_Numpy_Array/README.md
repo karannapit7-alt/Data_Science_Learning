@@ -14,7 +14,7 @@ A comprehensive collection of NumPy notebooks covering array creation, indexing,
 🔹 Built-in Mathematical Functions  
 🔹 Revision & Practice Notebook
 
-### 🎯 Skills Gained
+### 🎯 Skills Gained:-
 
 ✔ Numerical Computing  
 ✔ Data Manipulation  
