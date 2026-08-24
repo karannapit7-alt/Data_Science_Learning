@@ -2,7 +2,7 @@
 
 A comprehensive collection of NumPy notebooks covering array creation, indexing, slicing, multidimensional arrays, data types, broadcasting, mathematical functions, speed testing, and practice exercises.
 
-### 📚 Learning Modules
+### 📚 Learning Modules:-
 
 🔹 Creating NumPy Arrays  
 🔹 Python List vs NumPy Speed Test  
